@@ -1,0 +1,8 @@
+Q: What is the derivative of x^2?
+A: The derivative of x^2 with respect to x is 2x.
+
+Q: What is the integral of x?
+A: The integral of x with respect to x is (1/2)x^2 + C.
+
+Q: What is the quadratic formula?
+A: The solution to ax^2 + bx + c = 0 is x = [-b ± sqrt(b^2 - 4ac)] / (2a).

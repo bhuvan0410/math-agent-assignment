@@ -1,0 +1,8 @@
+[
+    {
+        "question": "What is the derivative of x^2?",
+        "ai_answer": "I'd be happy to help!\n\nTo find the derivative of x^2, we can use the power rule of differentiation, which states that if f(x) = x^n, then f'(x) = nx^(n-1).\n\nIn this case, we have f(x) = x^2, so n = 2. Therefore, using the power rule, we get:\n\nf'(x) = 2x^(2-1)\n= 2x^1\n= 2x\n\nSo, the derivative of x^2 with respect to x is indeed 2x.",
+        "feedback": "Yes",
+        "user_correction": ""
+    }
+]
